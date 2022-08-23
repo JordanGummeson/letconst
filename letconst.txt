@@ -1,0 +1,9 @@
+const PI = 3.14;
+
+let is block scome and can not be redecalred. var can be redeclared, reassigned and is hoisted.
+
+const can not be reasigned or redeclared, and is block scope.
+
+let can be reassigned but const cannot
+
+hoisted variables are declared first when the code is compiled and then assigned where it was declared in the codebase.
